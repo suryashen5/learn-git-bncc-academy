@@ -190,7 +190,7 @@
                     android:layout_height="10dp"
                     android:layout_marginBottom="28dp"
                     android:fontFamily="@font/karla_regular"
-                    android:text="Positive"
+                    android:text="Positives"
                     android:textColor="#FFFFFF"
                     android:textSize="10sp"
                     app:layout_constraintBottom_toBottomOf="@+id/imageView10"
